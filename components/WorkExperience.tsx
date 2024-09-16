@@ -33,7 +33,7 @@ const educationExperiences = [
     isLatest: true,
   },
   {
-    title: "Bachelor of Engineering Computer in Science",
+    title: "Bachelor of Engineering in CS",
     institution: "Chandigarh University",
     institutionUrl: "https://www.cuchd.in/",
     date: "2019 - 2023",
