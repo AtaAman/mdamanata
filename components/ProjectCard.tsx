@@ -14,7 +14,6 @@ interface ProjectProps {
 }
 
 function ProjectCard({
-  i,
   name,
   image,
   date,
@@ -126,7 +125,7 @@ const Projects = () => {
             </p>
           </div>
         </div>
-        {/* Project Cards */}
+
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 max-w-[800px] mx-auto">
           {data.map((project, idx) => (
             <ProjectCard
