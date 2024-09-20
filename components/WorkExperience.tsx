@@ -8,7 +8,7 @@ const workExperiences = [
     companyUrl: "https://www.emaanstram.com/",
     date: "October, 2024 - Present",
     description:
-      "Founder of EmaanStream, developing an educational platform for authentic podcasts, nasheeds, and religious bayans.",
+      "Building a Better Tomorrow with Faith ",
     isLatest: true,
   },
   {
