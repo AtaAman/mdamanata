@@ -4,8 +4,8 @@ import React from "react";
 const workExperiences = [
   {
     title: "Founder",
-    company: "EmaanStream",
-    companyUrl: "https://www.emaanstram.com/",
+    company: "Emaanify",
+    companyUrl: "https://www.emaanify.com/",
     date: "October, 2024 - Present",
     description:
       "Building a Better Tomorrow with Faith ",
