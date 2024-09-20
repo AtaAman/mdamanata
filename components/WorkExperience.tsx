@@ -5,7 +5,7 @@ const workExperiences = [
   {
     title: "Founder",
     company: "Emaanify",
-    companyUrl: "https://www.emaanify.com/",
+    companyUrl: "https://www.emaaniify.com/",
     date: "October, 2024 - Present",
     description:
       "Building a Better Tomorrow with Faith ",
