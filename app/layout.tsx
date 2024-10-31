@@ -102,7 +102,7 @@ export default function RootLayout({
       <body
         className={`${bricolageGrotesque.className} antialiased z-50 overflow-x-hidden`}
       >
-        <ThemeProvider attribute="class" defaultTheme="dark">
+        <ThemeProvider attribute="class" defaultTheme="light">
           <TooltipProvider delayDuration={0}>
             {children}
             <NavDock />

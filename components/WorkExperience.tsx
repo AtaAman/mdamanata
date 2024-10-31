@@ -3,12 +3,12 @@ import React from "react";
 
 const workExperiences = [
   {
-    title: "Founder",
-    company: "Emaanify",
-    companyUrl: "https://www.emaaniify.com/",
-    date: "October, 2024 - Present",
+    title: "Full Stack Developer",
+    company: "Lead2solar",
+    companyUrl: "https://www.lead2solar.com/",
+    date: "September, 2024 - Present",
     description:
-      "Building a Better Tomorrow with Faith ",
+      "Contributed to the development of Lead2Solar's landing page and helped implement several small software solutions for the solar industry. Collaborated with a small team in a startup environment to prioritize tasks and adapt quickly to changing requirements.",
     isLatest: true,
   },
   {
