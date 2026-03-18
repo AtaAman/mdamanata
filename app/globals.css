@@ -65,6 +65,18 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground transition-colors duration-300;
+  }
+  .dark body {
+    @apply bg-gradient-to-br from-black via-slate-950 to-slate-900 min-h-screen text-foreground;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/5 border border-white/10 backdrop-blur-md;
+  }
+  .dark .glass {
+    @apply bg-black/40 border border-white/10 backdrop-blur-md;
   }
 }
