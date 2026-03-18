@@ -7,7 +7,7 @@ const stats = [
   { value: "1.5+", label: "Years Experience" },
   { value: "10+", label: "Projects Delivered" },
   { value: "180+", label: "Daily Users (SIF360)" },
-  { value: "300+", label: "Funds Data Integrated" },
+  { value: "50+", label: "Active Solar EPCs (Sunkode)" },
 ];
 
 const Stats = () => {

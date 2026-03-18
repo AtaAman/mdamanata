@@ -15,7 +15,7 @@ const experiences = [
         <li>Leading product architecture and technical decisions.</li>
         <li>Managing client requirements & integrations.</li>
         <li>Improved performance and UX significantly.</li>
-        <li>Built advanced proposal editor with PDF system.</li>
+        <li>Built an advanced solar proposal editor actively used by 50+ EPC (solar companies).</li>
         <li>Handling debugging, testing, and mentoring interns.</li>
       </ul>
     ),

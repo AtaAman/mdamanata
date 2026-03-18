@@ -127,6 +127,7 @@ const Projects = () => {
       shortDesc: (
         <ul className="list-disc pl-5 space-y-1">
           <li>Solar CRM platform managing scalable internal features.</li>
+          <li>Built a solar proposal editor actively used by 50+ EPC (solar companies).</li>
           <li>Involved in product decisions, debugging, testing.</li>
           <li>Deployed and managed using AWS &amp; Vercel.</li>
         </ul>
